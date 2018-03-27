@@ -1,7 +1,7 @@
 {
-  "name": "treelify-js",
+  "name": "treelify",
   "version": "1.0.0",
-  "description": "Describe treelify-js here",
+  "description": "Treelify converts a Javascript array into a tree structure or a tree structure into a Javascript array.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -21,8 +21,8 @@
   "devDependencies": {
     "nwb": "0.21.x"
   },
-  "author": "",
-  "homepage": "",
+  "author": "Mathias Schaeffner",
+  "homepage": "https://github.com/mschaeffner/treelify-js",
   "license": "MIT",
-  "repository": ""
+  "repository": "https://github.com/mschaeffner/treelify-js"
 }
